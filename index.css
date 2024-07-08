@@ -1,0 +1,201 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px 0;
+  }
+  
+  .logo {
+    display: inline-block;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  main {
+    padding: 40px 0;
+  }
+  
+  .content {
+    float: left;
+    width: 50%;
+  }
+  
+  .image {
+    float: right;
+    width: 50%;
+    text-align: center;
+    
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: gray;
+  }
+  h1.br{
+    color: green;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: gray;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+header h2 {
+    margin-top: 0;
+    
+}
+
+header img {
+    width: 100px;
+    height: 30px;
+    margin: 20px auto;
+    margin-right: 50px;
+    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    color: gray;
+    font-size: 36px;
+   
+}
+
+h3 {
+    margin-bottom: 20px;
+    color: gray;
+}
+
+section {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+
+}
+
+h4 {
+    margin-top: 0;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.chart {
+    width: 500px;
+    margin: 40px auto;
+    text-align: center;
+  }
+  
+  .chart-label {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .chart-container {
+    width: 100%;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .chart-member {
+    background-color: #4CAF50;
+    height: 20px;
+    float: left;
+  }
+  
+  .chart-clubs {
+    background-color: #2196F3;
+    height: 20px;
+    float: left;
+  }
+  
+  .chart-event-bookings {
+    background-color: #FFC107;
+    height: 20px;
+    float: left;
+  }
+  
+  .chart-payments {
+    background-color: #9C27B0;
+    height: 20px;
+    float: left;
+  }
+
+  h2{
+    font-size: 36px;
+    color: gray;
+  }
+  p{
+    color: gray;
+  }
